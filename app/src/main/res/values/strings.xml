@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name" translatable="false">MySpinner</string>
+    <string name="app_text" translatable="false">Please the Select city into Bangladesh Country</string>
+
+        <string-array name="City" translatable="false">
+        <!--        Rajshahi Divisin-->
+        <item>Sirajgonj  </item>
+        <item>Bogura  </item>
+        <item>pabna  </item>
+        <item> Nator </item>
+        <item> Rajshahi </item>
+        <item> JoypurHat </item>
+        <item> Noyga </item>
+        <item> Chapaynobabgonj </item>
+                <item> Rogpur </item>
+                <item> Dinajpur </item>
+                        <item> Gaybandha </item>
+                        <item> Nilphanari </item>
+                        <item> thakurgao </item>
+                        <item> Korigram </item>
+                        <item>  ponchogor</item>
+                        <item> Lalmonirhat </item>
+                        <item>Dhaka  </item>
+                        <item>Tangail  </item>
+                        <item>Gazipur</item>
+                        <item>  Madaripur</item>
+                        <item>Manikgonj  </item>
+                        <item>Faridpur  </item>
+                        <item>Kishorgonj</item>
+                        <item>  Narsingdi </item>
+                        <item> Munshiganj </item>
+                        <item> Narayanganj </item>
+                        <item> Shariatpur </item>
+                        <item>Rajbari  </item>
+                        <item>Gopalganj  </item>
+                        <item>Mymensingh</item>
+                        <item> Sherpur  </item>
+                        <item>  Jamalpur</item>
+                        <item> Netrokona </item>
+                        <item>Habiganj  </item>
+                        <item>Sylhat  </item>
+                        <item>MoulviBazar  </item>
+
+        </string-array>
+
+
+<!--    <string-array name="City" translatable="false">-->
+<!--&lt;!&ndash;        Rajshahi Divisin&ndash;&gt;-->
+<!--        <item>Sirajgonj  </item>-->
+<!--        <item>Bogura  </item>-->
+<!--        <item>pabna  </item>-->
+<!--        <item> Nator </item>-->
+<!--        <item> Rajshahi </item>-->
+<!--        <item> JoypurHat </item>-->
+<!--        <item> Noyga </item>-->
+<!--        <item> Chapaynobabgonj </item>-->
+<!--&lt;!&ndash;        Rogpur Division&ndash;&gt;-->
+<!--        <item> Rogpur </item>-->
+<!--        <item> Dinajpur </item>-->
+<!--        <item> Gaybandha </item>-->
+<!--        <item> Nilphanari </item>-->
+<!--        <item> thakurgao </item>-->
+<!--        <item> Korigram </item>-->
+<!--        <item>  ponchogor</item>-->
+<!--        <item> Lalmonirhat </item>-->
+<!--&lt;!&ndash;        Dhaka Division&ndash;&gt;-->
+<!--        <item>Dhaka  </item>-->
+<!--        <item>Tangail  </item>-->
+<!--        <item>Gazipur</item>-->
+<!--        <item>  Madaripur</item>-->
+<!--        <item>Manikgonj  </item>-->
+<!--        <item>Faridpur  </item>-->
+<!--        <item>Kishorgonj</item>-->
+<!--        <item>  Narsingdi </item>-->
+<!--        <item> Munshiganj </item>-->
+<!--        <item> Narayanganj </item>-->
+<!--        <item> Shariatpur </item>-->
+<!--        <item>Rajbari  </item>-->
+<!--        <item>Gopalganj  </item>-->
+<!--&lt;!&ndash;Mymensingh Division&ndash;&gt;-->
+<!--        <item>Mymensingh</item>-->
+<!--        <item> Sherpur  </item>-->
+<!--        <item>  Jamalpur</item>-->
+<!--        <item> Netrokona </item>-->
+<!--&lt;!&ndash;Sylhat division&ndash;&gt;-->
+<!--        <item>Habiganj  </item>-->
+<!--        <item>Sylhat  </item>-->
+<!--        <item>MoulviBazar  </item>-->
+<!--        <item>Sunamganj  </item>-->
+<!--&lt;!&ndash;        Chattrogram Division&ndash;&gt;-->
+<!--        <item>Chadpur</item>-->
+<!--        <item>Feni  </item>-->
+<!--        <item>Barnmondaria  </item>-->
+<!--        <item> Comilla </item>-->
+<!--        <item>Chattrogram  </item>-->
+<!--        <item>cox's bazar  </item>-->
+<!--        <item>Raggamati</item>-->
+<!--        <item>Bandarbun  </item>-->
+<!--        <item> khagrashori </item>-->
+<!--        <item>Noakhli </item>-->
+<!--        <item> Lokkhipur </item>-->
+<!--&lt;!&ndash;        Barisal Division&ndash;&gt;-->
+<!--        <item>Barisal  </item>-->
+<!--        <item>Bungura</item>-->
+<!--        <item> Bhola </item>-->
+<!--        <item>  patuakhali</item>-->
+<!--        <item>Pirojpur  </item>-->
+<!--        <item> JhaluKati </item>-->
+<!--&lt;!&ndash;Khulna Division&ndash;&gt;-->
+<!--        <item> Khulna </item>-->
+<!--        <item>Jushor  </item>-->
+<!--        <item>  Jinaidhoh</item>-->
+<!--        <item> Maherpur </item>-->
+<!--        <item> Bagerhat</item>-->
+<!--        <item> Satkhira </item>-->
+<!--        <item> Chuadanga </item>-->
+<!--        <item>Kushtia  </item>-->
+<!--        <item>Magura  </item>-->
+<!--        <item> Narail </item>-->
+
+<!--    </string-array>-->
+</resources>
